@@ -1,3 +1,7 @@
+### 12.0.3
+
+- Bug fix: https://github.com/p4535992/foundryvtt-pin-cushion/issues/104
+
 ### 12.0.2
 
 - Try to rework/repatch https://github.com/p4535992/foundryvtt-pin-cushion/issues/99
